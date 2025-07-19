@@ -1,0 +1,1 @@
+pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
