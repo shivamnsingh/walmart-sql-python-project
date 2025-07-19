@@ -2,7 +2,7 @@
 An end-to-end data analysis project using SQL and Python on Walmart sales data
 # Walmart Data Analysis: End-to-End SQL + Python Project 🛒📊
 
-![Walmart Sales Analysis](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Walmart Sales Analysis]
 
 ## 🚀 Project Overview
 
