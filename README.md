@@ -87,12 +87,3 @@ SQL Databases: MySQL & PostgreSQL
 
 Required libraries:pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
 
-
----
-
-Let me know if you'd like:
-- A `requirements.txt` file
-- Help with GitHub setup steps
-- A LinkedIn post to showcase your project
-
-I'm ready!
